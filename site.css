@@ -4,3 +4,8 @@ body {
     font-size: xx-large;
     font: bold;
 }
+
+ul {
+    background-color: chocolate;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
